@@ -1,0 +1,10 @@
+.idea/
+
+*.py[cod]
+__pycache__/
+
+*.egg-info/
+build/
+dist/
+
+config.toml
